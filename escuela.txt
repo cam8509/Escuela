@@ -1,0 +1,9 @@
+@viewbag forma en en que se manda la informacion del controlador a la 
+
+se arrastra boostra importa el orden primero boostrap y luego el theme
+despues se agrega el js en parte de abajo
+
+en la parte de informacion de la pagina se agrega @renderbody
+se crea en home controller en controladores
+
+
